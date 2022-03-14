@@ -24,7 +24,7 @@ Usage of C:\...\go-build3502846155\b001\exe\main.exe:
 
 ### Show the contents of urls table
 ```bash
-  go run .\main.go -dbfile .\History.db --table ruls
+  go run .\main.go -dbfile .\History.db --table urls
 ```
 ![Screenshot](img2.png)
 
